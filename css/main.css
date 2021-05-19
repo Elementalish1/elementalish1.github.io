@@ -536,7 +536,7 @@ a {
         color: #151515;
     }
     .nav-items li a:hover, .nav-items li a:focus {
-        color: #BC4E69;
+        color: 	#ff6289;
         transition: all 0.2s ease-out;
     }
     #contact .social-links {

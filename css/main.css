@@ -533,10 +533,10 @@ a {
     .nav-items li a {
         margin: 0 10px;
         padding: 19px 20px;
-        color: #151515;
+        color: #ff6289;
     }
     .nav-items li a:hover, .nav-items li a:focus {
-        color: 	#ff6289;
+        color: #ff6289;
         transition: all 0.2s ease-out;
     }
     #contact .social-links {

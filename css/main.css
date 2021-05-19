@@ -10,8 +10,8 @@ body {
     font-family: 'Noto Sans', sans-serif;
     font-weight: 400;
     font-size: 1em;
-    color: #151515;
-    background-color: #EFF2F1;
+    color: #CD5C5C;
+    background-color: #0e1111;
 }
 
 h1, h2 {
@@ -72,7 +72,7 @@ a {
     display: block;
     top: 0;
     z-index: 3;
-    background-color: #EFF2F1;
+    background-color: #0e1111;
     width: 100%;
     height: 60px;
     transition: top 0.3s;
@@ -88,16 +88,16 @@ a {
 }
 
 .nav-items li {
-    color: #EFF2F1;
-    background-color: #EFF2F1;
+    color: #ff6289;
+    background-color: #0e1111;
     margin: 0 auto;
 }
 
 .nav-items li a {
     display: block;
     padding: 15px;
-    color: #92374D;
-    background-color: #EFF2F1;
+    color: #ff6289;
+    background-color: #0e1111;
     text-decoration: none;
     font-size: 1em;
     letter-spacing: 0.05em;
@@ -127,7 +127,7 @@ a {
 }
 
 #menu-icon span {
-    background: #151515;
+    background: #0e1111;
     display: block;
     height: 3px;
     position: relative;
@@ -135,7 +135,7 @@ a {
 }
 
 #menu-icon span:before, #menu-icon span:after {
-    background: #151515;
+    background: #0e1111;
     content: '';
     display: block;
     height: 100%;
@@ -217,7 +217,7 @@ a {
 }
 
 .short-bio p a {
-    color: #4A2040;
+    color: #ff6289;
     font-weight: bold;
     text-decoration: none;
 }

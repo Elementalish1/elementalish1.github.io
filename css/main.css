@@ -89,7 +89,7 @@ a {
 
 .nav-items li {
     color: #ff6289;
-    background-color: #232b2b;
+    background-color: #ff6289;
     margin: 0 auto;
 }
 
@@ -97,7 +97,7 @@ a {
     display: block;
     padding: 15px;
     color: #ff6289;
-    background-color: #232b2b;
+    background-color: #ff6289
     text-decoration: none;
     font-size: 1em;
     letter-spacing: 0.05em;
@@ -223,7 +223,7 @@ a {
 }
 
 .short-bio p a:hover {
-    color: #BC4E69;
+    color: #ff6289;
     transition: all 0.2s ease-out;
 }
 
@@ -258,7 +258,7 @@ a {
 }
 
 .quote a:hover {
-    color: #BC4E69;
+    color: #ff6289;
     transition: all 0.2s ease-out;
 }
 
@@ -293,7 +293,7 @@ a {
 }
 
 .terminal-window {
-    background-color: #151515;
+    background-color: #0e1111;
     padding: 20px;
     border-radius: 0 0 10px 10px;
     letter-spacing: 0.01em;
@@ -322,16 +322,16 @@ a {
 }
 
 .return {
-    color: #FCCA73;
+    color: #ff6289;
 }
 
 .return a {
-    color: #47C2FF;
+    color: #ff084a;
     text-decoration: none;
 }
 
 .return a:hover {
-    color: #ffa2bb;
+    color: #fc3468;
     transition: all 0.2s ease-out;
 }
 
@@ -368,13 +368,13 @@ a {
 }
 
 .project-description a {
-    color: #4A2040;
+    color: #232b2b;
     font-weight: bold;
     text-decoration: none;
 }
 
 .project-description a:hover {
-    color: #BC4E69;
+    color: #ff6289;
     transition: all 0.2s ease-out;
 }
 
@@ -441,13 +441,13 @@ a {
 }
 
 .more-info a {
-    color: #4A2040;
+    color: #ff6289;
     font-weight: bold;
     text-decoration: none;
 }
 
 .more-info a:hover {
-    color: #BC4E69;
+    color: #ff084a;
 }
 
 /* Contact Me */
@@ -482,7 +482,7 @@ a {
 @media only screen and (min-width: 768px) {
     .typewriter h1 {
         font-size: 3.2em;
-        border-right: 0.75em solid #4A2040;
+        border-right: 0.75em solid #ff6289;
     }
     .section-title h2 {
         font-size: 2.2em;

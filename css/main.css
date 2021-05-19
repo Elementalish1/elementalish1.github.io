@@ -10,8 +10,8 @@ body {
     font-family: 'Noto Sans', sans-serif;
     font-weight: 400;
     font-size: 1em;
-    color: #CD5C5C;
-    background-color: #0e1111;
+    color: #ff6289;
+    background-color: #232b2b;
 }
 
 h1, h2 {
@@ -72,7 +72,7 @@ a {
     display: block;
     top: 0;
     z-index: 3;
-    background-color: #0e1111;
+    background-color: #232b2b;
     width: 100%;
     height: 60px;
     transition: top 0.3s;
@@ -89,7 +89,7 @@ a {
 
 .nav-items li {
     color: #ff6289;
-    background-color: #0e1111;
+    background-color: #232b2b;
     margin: 0 auto;
 }
 
@@ -97,7 +97,7 @@ a {
     display: block;
     padding: 15px;
     color: #ff6289;
-    background-color: #0e1111;
+    background-color: #232b2b;
     text-decoration: none;
     font-size: 1em;
     letter-spacing: 0.05em;
@@ -127,7 +127,7 @@ a {
 }
 
 #menu-icon span {
-    background: #0e1111;
+    background: #232b2b;
     display: block;
     height: 3px;
     position: relative;
@@ -135,7 +135,7 @@ a {
 }
 
 #menu-icon span:before, #menu-icon span:after {
-    background: #0e1111;
+    background: #232b2b;
     content: '';
     display: block;
     height: 100%;
@@ -272,8 +272,8 @@ a {
 }
 
 .terminal-header {
-    background-color: rgba(64, 32, 64, 0.75);
-    color: #EFF2F1;
+    background-color: #353839;
+    color: #ff6289;
     padding: 7px 20px 5px 20px;
     font-weight: bold;
     display: flex;

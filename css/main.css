@@ -16,7 +16,7 @@ body {
 
 h1, h2 {
     font-family: 'Fira Mono', monospace;
-    color: rgba(64, 32, 64, 0.75);
+    color: #ff6289;
 }
 
 h3 {

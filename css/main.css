@@ -16,7 +16,7 @@ body {
 
 h1, h2 {
     font-family: 'Fira Mono', monospace;
-    color: #EFF2F1;
+    color: #ff6289;
 }
 
 h3 {
@@ -322,7 +322,7 @@ a {
 }
 
 .return {
-    color: #ff6289;
+    color: #EFF2F1;
 }
 
 .return a {

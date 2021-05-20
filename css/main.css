@@ -10,7 +10,7 @@ body {
     font-family: 'Noto Sans', sans-serif;
     font-weight: 400;
     font-size: 1em;
-    color: #ff6289;
+    color: #EFF2F1;
     background-color: #232b2b;
 }
 
@@ -326,7 +326,7 @@ a {
 }
 
 .return a {
-    color: #EFF2F1;
+    color: #ff6289;
     text-decoration: none;
 }
 

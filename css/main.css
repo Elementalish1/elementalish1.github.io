@@ -432,7 +432,7 @@ a {
     margin-bottom: 1.4em;
 }
 
-.masonry-layout .brick img {
+.masonry-layout .brick iframe {
     transition: all .5s ease-in-out;
     backface-visibility: hidden;
     max-width: 100%;

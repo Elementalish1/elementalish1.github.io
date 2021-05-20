@@ -432,7 +432,7 @@ a {
     margin-bottom: 1.4em;
 }
     
-.margin-b.masonry-layout .brick img {
+.margin-b .masonry-layout .brick img {
     transition: all .5s ease-in-out;
     backface-visibility: hidden;
     max-width: 100%;

@@ -429,7 +429,10 @@ a {
 .masonry-layout .brick {
     display: inline-block;
     vertical-align: top;
-    margin-b.masonry-layout .brick  img {
+    margin-bottom: 1.4em;
+}
+    
+.margin-b.masonry-layout .brick img {
     transition: all .5s ease-in-out;
     backface-visibility: hidden;
     max-width: 100%;
